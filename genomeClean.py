@@ -34,5 +34,5 @@ for index, row in dt.iterrows():
            # print("FOUND")
             dt.loc[index, "City Population"] = place[2]
 
-dt.to_csv("DataSources/FinalData.CSV" ,sep="\t")
+dt.to_csv("DataSources/FinalData.CSV" ,sep=",")
 
