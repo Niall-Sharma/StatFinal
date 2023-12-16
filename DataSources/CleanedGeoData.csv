@@ -17,11 +17,28 @@ Washington	United Kingdom	1930
 Ambleside	United Kingdom	2529
 Duffel	Belgium	16011
 Trimbach	Switzerland	6220
+Cheltenham	Australia	23992
 Mechelen	Belgium	77530
 Timmendorfer Strand	Germany	9127
 Cascais	Portugal	36436
+San Francisco	El Salvador	16152
 Aduard	Netherlands	2030
 Stavanger	Norway	144877
+Valladolid	Philippines	0
+Pau	Philippines	2428
+Burgos	Philippines	0
+Milan	United States	7813
+Washington	United States	3466
+Kenilworth	United States	2555
+Milan	United States	5096
+Bath	United States	8305
+Florence	United States	4426
+Verona	United States	13545
+Cambridge	United States	10402
+El Palmar	Mexico	1560
+San Francisco	Mexico	1045
+Córdoba	Mexico	140896
+Belfast	South Africa	11916
 Val-d'Isère	France	1632
 Sessenheim	France	2090
 Saint-Méloir-des-Ondes	France	3289
@@ -42,6 +59,17 @@ Seneffe	Belgium	11025
 Gent	Belgium	265086
 Fürstenau	Germany	9946
 Ljubljana	Slovenia	272220
+Athens	United States	127315
+Hollywood	United States	4962
+York	United States	8009
+Birmingham	United States	20857
+Geneva	United States	13062
+Milan	United States	1347
+Versailles	United States	2643
+Santa Monica	United States	93220
+Valencia	United States	2192
+Cambridge	United States	1051
+Atlanta	United States	1648
 Fiumicino	Italy	34556
 Porto	Italy	4830
 Colmar	Luxembourg	1776
@@ -49,6 +77,8 @@ Waalre	Netherlands	6445
 Kerkdriel	Netherlands	6580
 Capelle aan den IJssel	Netherlands	65255
 Bergen	Netherlands	29974
+Santa Monica	Philippines	2581
+Barcelona	Philippines	2639
 Flobecq	Belgium	3142
 Zermatt	Switzerland	6629
 Steffisburg	Switzerland	15709
@@ -59,6 +89,7 @@ Corçà	Spain	0
 Burgos	Spain	178966
 Marlow	Germany	4881
 Cuxhaven	Germany	52677
+Toronto	Australia	5670
 Valmont	France	3312
 Rouen	France	234475
 Rennes	France	220488
@@ -70,10 +101,25 @@ Beaulieu-sur-Mer	France	3824
 Argentan	France	18230
 Verona	Italy	258031
 Scorzè	Italy	8699
+Plymouth	Montserrat	0
 Kenilworth	United Kingdom	22413
 Modena	Italy	184732
 Tilburg	Netherlands	199613
 Bragança	Portugal	34375
+Taichung	Taiwan, China	1040725
+Istanbul	Turkey	14804116
+Holt	United States	23973
+Athens	United States	1096
+Leeds	United States	11936
+Washington	United States	1085
+Verona	United States	1455
+Versailles	United States	2440
+Como	United States	1245
+Florence	United States	4363
+Athens	United States	25044
+Oakland	United States	1073
+Ardmore	United States	1213
+Hanoi	Viet Nam	8053663
 Uzès	France	7841
 Toulouse	France	493465
 Saint-Germain	France	1238
@@ -95,11 +141,16 @@ Munich	Germany	1260391
 Karlsruhe	Germany	283799
 Lympstone	United Kingdom	1763
 Elciego	Spain	914
+Valencia	Colombia	10652
+Cáceres	Colombia	4987
 Bray	Belgium	3015
 Braine-le-Château	Belgium	9627
+Guangzhou	China	16096724
 Zonhoven	Belgium	19922
 Ouwegem	Belgium	1608
 Heverlee	Belgium	23278
+San Francisco	Argentina	59062
+Torquay	Australia	7426
 Lucca	Italy	81748
 Imola	Italy	69953
 Bergamo	Italy	121200
@@ -109,9 +160,21 @@ Blackrock	Ireland	5000
 Blackrock	Ireland	8821
 Schio	Italy	33740
 Savigno	Italy	1184
+Hong Kong	Hong Kong, China	7482500
+Cadiz	United States	2626
+Berlin	United States	7590
+Florence	United States	4426
+Plymouth	United States	12284
+Alba	Romania	1599
 Lagoa	Portugal	6301
 Albufeira	Portugal	15851
+Toronto	United States	4882
+Bath	United States	2667
+Plymouth	United States	7494
+Milan	United States	1418
 Heeze	Netherlands	9945
+San Francisco	Philippines	3016
+San Francisco	Philippines	8989
 Elverdinge	Belgium	1751
 Saarbrücken	Germany	179349
 Porches	Portugal	2011
@@ -120,13 +183,36 @@ Almancil	Portugal	9898
 Leça da Palmeira	Portugal	17996
 Florence	Italy	367150
 Cernobbio	Italy	6790
+Haro	Mexico	1092
+San Francisco	Mexico	1823
 Weert	Netherlands	48662
 Eindhoven	Netherlands	209620
+San Francisco	Panama	1785
+Valencia	Philippines	5027
+Valencia	Philippines	2429
+Barcelona	Philippines	3258
+Singapore	Singapore	5638700
+Florence	United States	32227
+Washington	United States	9788
+Miami	United States	13611
+Florence	United States	1231
+Naples	United States	1019
+Horsham	United States	14842
+Washington	United States	24299
+Paris	United States	506
 Reguengos de Monsaraz	Portugal	7217
 Lisbon	Portugal	517802
+London	United States	8126
+Versailles	United States	9146
+Valencia	Philippines	3771
+Burgos	Philippines	28178
+Novara	Mexico	2501
 Bragança	Brazil	57163
 Toledo	Brazil	119313
 São Paulo	Brazil	12400232
+Córdoba	Colombia	4063
+Cambridge	Australia	1223
+Abu Dhabi	United Arab Emirates	1807000
 Genoa	Italy	580097
 Conca dei Marini	Italy	597
 Villeneuve-Loubet	France	14354
@@ -150,6 +236,16 @@ Illescas	Spain	21264
 Taormina	Italy	5790
 Nottingham	United Kingdom	323632
 Hambleton	United Kingdom	1749
+Berlin	United States	2422
+Bath	United States	2083
+Oakland	United States	1202
+Plymouth	United States	1802
+Seville	United States	2340
+Baden	United States	4037
+Los Angeles	United States	3898747
+Nice	United States	2731
+Oakland	United States	1507
+Cambridge	United States	2113
 Sarreguemines	France	24446
 Romorantin-Lanthenay	France	19953
 Pézenas	France	8647
@@ -170,11 +266,38 @@ Salinas	Brazil	25746
 Rio de Janeiro	Brazil	6747815
 Tongeren	Belgium	29816
 Gummersbach	Germany	53131
+Toledo	Argentina	3046
 Vienna	Austria	1691468
 Leersum	Netherlands	6385
+Valencia	Philippines	3471
+Santa Monica	Philippines	5475
+Burgos	Philippines	0
+Mountain View	United States	2837
+Stuttgart	United States	9056
+Sorrento	United States	1582
+Washington	United States	14050
+Berlin	United States	2019
+Atlanta	United States	827
+Milan	United States	1852
+Hamburg	United States	3155
+Rome	United States	32573
+Lisbon	United States	2727
+Hamburg	United States	4398
+Denver	United States	715522
+Geneva	United States	21806
 Bangkok	Thailand	5104476
 Lallio	Italy	4124
+Kaohsiung	Taiwan, China	1519711
+Geneva	United States	4460
+Paris	United States	3443
+Vienna	United States	597
+Marlow	United States	4594
+Brussels	United States	1110
 Haarlem	Netherlands	147590
+Valencia	Philippines	0
+San Francisco	Philippines	2180
+Burgos	Philippines	2139
+San Francisco	Mexico	1065
 Vonnas	France	2669
 Saint-Pée-sur-Nivelle	France	4682
 Saint-Malo	France	50676
@@ -195,12 +318,18 @@ Valdemoro	Spain	62750
 Crieff	United Kingdom	7430
 Bray	United Kingdom	0
 Summerhouse	United Kingdom	0
+Berlin	United States	9367
+Amsterdam	United States	18008
+Rotterdam	United States	20652
+Washington	United States	13497
+Saint Helier	Jersey	28000
 Växjö	Sweden	65383
 Stockholm	Sweden	1515017
 George Town	Malaysia	158336
 Kuala Lumpur	Malaysia	1453975
 Porto	Brazil	6535
 Burgdorf	Switzerland	16420
+Ascot	Australia	1926
 Knokke	Belgium	14449
 Euskirchen	Germany	54889
 Baden	Austria	26286
@@ -213,6 +342,7 @@ Gesté	France	2471
 Bozouls	France	2429
 Amboise	France	12685
 Bergen	Germany	13609
+El Palmar	Dominican Republic	2445
 Torrenueva	Spain	2514
 Donostia / San Sebastián	Spain	185357
 Hondarribia	Spain	16458
@@ -234,6 +364,20 @@ Tokyo	Japan	8336599
 Nieuwpoort	Netherlands	1390
 Castricum	Netherlands	35256
 Bergen	Norway	285911
+San Francisco	Philippines	19570
+Los Angeles	Philippines	4054
+Paris	United States	9870
+Baden	United States	2128
+Plymouth	United States	3658
+Geneva	United States	6447
+Atlanta	United States	5605
+Paris	United States	24782
+Rome	United States	1738
+Athens	United States	1007
+Plymouth	United States	5832
+Mountain View	United States	2372
+Oakland	United States	1437
+Washington	United States	7408
 Rueil-Malmaison	France	76616
 Porto-Vecchio	France	11820
 Plérin	France	13860
@@ -241,6 +385,7 @@ Nantes	France	318808
 La Wantzenau	France	5765
 Chazelles-sur-Lyon	France	4911
 Binic	France	3272
+Illescas	Mexico	1727
 Marina di Gioiosa Ionica	Italy	5756
 Pinerolo	Italy	30866
 London	Canada	346765
@@ -254,14 +399,33 @@ Balgach	Switzerland	4019
 Roeselare	Belgium	56016
 Hulshout	Belgium	3447
 Hirschegg	Austria	1354
+Torquay	Australia	12854
 Erfurt	Germany	213692
 Vila Nova de Gaia	Portugal	70811
+London	United States	1046
+Toledo	United States	1221
+Athens	United States	13688
+Washington	United States	6498
+Denver	United States	1835
+Hamburg	United States	1082
+Leon	United States	1903
+Lisbon	United States	2202
+Madrid	United States	2588
+George Town	Cayman Islands	29370
+Monaco	Monaco	32965
 Zwolle	Netherlands	111805
 Rijswijk	Netherlands	47299
+San Francisco	Mexico	3054
+San Francisco	Mexico	3165
+San Francisco	Mexico	3353
+Burgos	Philippines	3513
+Valencia	Venezuela, Bolivarian Rep. of	1619470
 Brussels	Belgium	1019022
 Lagoa	Brazil	5200
+Kilkenny	Australia	1630
 Woluwe-Saint-Lambert	Belgium	56584
 Lichtaart	Belgium	6212
+Rutherford	Australia	11788
 Saulieu	France	3035
 Saint-Gervais-les-Bains	France	5882
 Ouches	France	1143
@@ -286,10 +450,17 @@ Penarth	United Kingdom	23437
 Colerne	United Kingdom	2564
 Cambridge	United Kingdom	145674
 Burgos	Italy	935
+Bath	Jamaica	2382
 Roeser	Luxembourg	708
 Driebergen-Rijsenburg	Netherlands	18553
+Jaén	Peru	52493
+Toledo	Philippines	207314
+San Francisco	Philippines	2535
+San Francisco	Philippines	0
+Salinas	Philippines	2506
 Salerno	Italy	125797
 Massa Lubrense	Italy	10192
+Utrecht	South Africa	3575
 Port d'Alcúdia	Spain	4185
 Saint-Vincent-de-Tyrosse	France	5898
 Plomodiern	France	2108
@@ -300,6 +471,7 @@ Les Arcs	France	5910
 Le Bourget-du-Lac	France	4263
 Faulquemont	France	5553
 Asperg	Germany	12870
+Salinas	Ecuador	43862
 Porto	Spain	0
 Skelton	United Kingdom	6535
 Skelton	United Kingdom	6538
@@ -307,14 +479,32 @@ East Grinstead	United Kingdom	26523
 Broadstairs	United Kingdom	23283
 Belfast	United Kingdom	345418
 Bretignolles-sur-Mer	France	3293
+Oakland	United States	1382
+Ripley	United States	5357
+Athens	United States	24966
+Florence	United States	592
+Miami	United States	1783
 Deerlijk	Belgium	11292
 Beveren-Leie	Belgium	5331
+Nola	Central African Republic	31923
 Gstaad	Switzerland	9200
+Toledo	Colombia	5911
+Toledo	Colombia	0
+Beijing	China	18960744
+Como	Australia	14786
+Surfside	Australia	1341
 Kirchdorf	Germany	2652
 Odenthal	Germany	15619
 Münster	Germany	270184
+Holt	United States	3638
+York	United States	2399
+Mountain View	United States	2673
+Mountain View	United States	3552
+Belfast	United States	6682
+Nottingham	United States	3942
 Aalst	Netherlands	1580
 Oslo	Norway	580000
+Ronda	Philippines	0
 Genazzano	Italy	4599
 Corrubbio	Italy	1685
 Herning	Denmark	50565
@@ -327,6 +517,7 @@ Le Tholonet	France	2383
 Kaysersberg	France	2815
 Grignan	France	1443
 Couilly-Pont-aux-Dames	France	2033
+San Francisco	Guatemala	3954
 Padstow	United Kingdom	2296
 Dorking	United Kingdom	17747
 Chartres	France	43838
@@ -336,14 +527,33 @@ Santa Monica	Brazil	5100
 Montreux	Switzerland	25984
 Sint-Denijs	Belgium	2489
 Saint-Georges-sur-Meuse	Belgium	6803
+Córdoba	Argentina	1317298
 Münster	Austria	3317
+San Francisco	Mexico	1697
+El Palmar	Mexico	1089
+Ho Chi Minh City	Viet Nam	8993082
+Mountain View	United States	3924
+Barcelona	Venezuela, Bolivarian Rep. of	815141
 Damme	Belgium	10924
+Córdoba	Colombia	6597
 Prague	Czech Republic	1165581
+Holt	Australia	4524
 Temploux	Belgium	2080
 Liège	Belgium	195278
 Salzburg	Austria	157245
 Portorož	Slovenia	2947
 The Hague	Netherlands	474292
+Belfast	New Zealand	4510
+San Francisco	Philippines	2154
+Burgos	Philippines	0
+Lisbon	United States	9392
+York	United States	7864
+Hamburg	United States	9576
+Ardmore	United States	12455
+Athens	United States	3255
+Versailles	United States	1496
+Valencia	United States	148456
+Paris	United States	10150
 Bad Teinach-Zavelstein	Germany	3053
 Ronda	Spain	36827
 Las Palmas de Gran Canaria	Spain	378517
@@ -364,6 +574,7 @@ Stuttgart	Germany	630305
 Maiori	Italy	5268
 Venice	Italy	51298
 Rubano	Italy	3434
+El Palmar	Mexico	1074
 Geel	Belgium	34697
 Lenzburg	Switzerland	7392
 Copenhagen	Denmark	1153615
@@ -392,23 +603,44 @@ Brest	France	144899
 Bidart	France	5021
 Ansouis	France	1114
 Aix-en-Provence	France	146821
+El Palmar	Guatemala	15167
 Langho	United Kingdom	2015
 Bridge	United Kingdom	1576
 Vico Equense	Italy	12820
 Venaria Reale	Italy	33531
 Marina di Grosseto	Italy	2115
 Tavira	Portugal	15133
+Holt	Romania	1245
 Aalst	Netherlands	3480
+Murcia	Philippines	17448
+Barcelona	Philippines	3541
+Cambridge	United States	12507
+San Francisco	Mexico	1353
+Cheltenham	United States	4810
+Rutherford	United States	4303
+Berlin	United States	5420
 Como	Italy	84808
 Cologne	Italy	7032
 Cesenatico	Italy	18925
+Nara	Mali	0
+Madrid	Mexico	3790
+Los Angeles	Mexico	4217
 Adare	Ireland	1129
 Reykjavík	Iceland	118918
 Turin	Italy	847287
 Hampton in Arden	United Kingdom	1692
 Edinburgh	United Kingdom	506520
+Leeds	United States	2080
+Toledo	United States	3511
+Taipei	Taiwan, China	7871900
+Lisbon	United States	2845
+Athens	United States	12788
+Washington	United States	128
 Well	Netherlands	2500
 Maasbracht	Netherlands	5680
+San Francisco	Panama	1898
+El Palmar	Panama	4536
+Burgos	Philippines	6581
 Saint-Pierre-Quiberon	France	2322
 Saint-Céré	France	3887
 Pujaut	France	3828
@@ -430,6 +662,7 @@ Grindelwald	Switzerland	3730
 Ninove	Belgium	34795
 Nieuwpoort	Belgium	10845
 Mannheim	Germany	307960
+Toledo	Uruguay	4397
 Porvoo	Finland	51135
 Mons	France	1224
 L'Isle-sur-la-Sorgue	France	16968
@@ -441,6 +674,11 @@ Jaén	Spain	113457
 Vigo	Spain	297332
 Pau	Spain	446
 Mölnlycke	Sweden	17579
+Santa Monica	Philippines	2284
+San Francisco	Philippines	3960
+San Francisco	Philippines	2541
+San Francisco	Philippines	5047
+Burgos	Philippines	2578
 Breda	Italy	2472
 Alba	Italy	24923
 Aberystwyth	United Kingdom	18749
@@ -458,6 +696,9 @@ Hunstanton	United Kingdom	9332
 Horsham	United Kingdom	51472
 Egham	United Kingdom	29663
 Bury St Edmunds	United Kingdom	42812
+San Francisco	Colombia	2779
+San Francisco	Colombia	4350
+Pamplona	Colombia	53587
 Groot-Bijgaarden	Belgium	8145
 Grandhan	Belgium	1593
 Toronto	Canada	2600000
@@ -465,7 +706,14 @@ Basel	Switzerland	164488
 Bad Ragaz	Switzerland	5063
 Strombeek-Bever	Belgium	13727
 Leuven	Belgium	101032
+York	Australia	2472
 Sintra	Portugal	26193
+Birmingham	United States	212461
+Miami	United States	441003
+Venice	United States	1915
+Ardmore	United States	25176
+Salamanca	United States	5586
+Malmesbury	South Africa	34991
 Saint-Tropez	France	5939
 Saint-Grégoire	France	8058
 Porspoder	France	1651
@@ -485,16 +733,53 @@ Damme	Germany	16024
 Braine-l'Alleud	Belgium	37512
 Aalst	Belgium	77534
 Castellammare di Stabia	Italy	66164
+Vigo	Philippines	2482
+Cadiz	Philippines	129053
+El Palmar	Mexico	2884
+San Francisco	Mexico	2152
 Athens	Greece	664046
 Rovinj	Croatia	11629
 Novalja	Croatia	2415
 Milan	Italy	1371498
+Washington	United States	16664
+Geneva	United States	1320
+Lisbon	United States	2145
+Florence	United States	3865
+Hamburg	United States	2791
+Surfside	United States	6024
+Paris	United States	8432
+Washington	United States	12078
+Denver	United States	2309
+Florence	United States	38228
 San Teodoro	Italy	0
 Overveen	Netherlands	3685
 Hilvarenbeek	Netherlands	7855
+San Francisco	Panama	0
+Pavia	Philippines	5928
+Valladolid	Mexico	1411
 Pavia	Italy	65734
+Orlando	United States	307573
+Venice	United States	22211
+Ripley	United States	1721
+Oakland	United States	1232
+Washington	United States	1398
+Oakland	United States	1569
+Verona	United States	2442
+Plymouth	United States	10035
+Geneva	United States	2131
+Plymouth	United States	8505
+Florence	United States	31110
+San Francisco	United States	864816
+Venice	United States	40885
+Aspen	United States	6882
+Oakland	United States	2829
+Vienna	United States	1647
+Naples	United States	1339
+Gothenburg	United States	3514
+Geneva	United States	2321
 Belfast	Canada	1687
 Brussels	Canada	1158
+Padstow	Australia	13226
 Lahr	Germany	47551
 Hasselt	Belgium	77651
 Menzingen	Switzerland	3878
@@ -503,7 +788,11 @@ Spa	Belgium	10756
 Sint-Kwintens-Lennik	Belgium	5856
 Sint-Kruis	Belgium	16000
 Heist	Belgium	12951
+Dubai	United Arab Emirates	3478300
+San Francisco	Costa Rica	55923
 Ellezelles	Belgium	5566
+Brest	Belarus	362641
+Hangzhou	China	9236032
 Opglabbeek	Belgium	9452
 Kruishoutem	Belgium	8179
 Lausanne	Switzerland	139111
@@ -518,6 +807,7 @@ Oisterwijk	Netherlands	25980
 Doornenburg	Netherlands	2075
 Bennekom	Netherlands	14810
 Amsterdam	Netherlands	741636
+San Francisco	Philippines	2901
 Saint-Galmier	France	5485
 Montlivault	France	1250
 Monswiller	France	1945
@@ -539,12 +829,20 @@ Wall	United Kingdom	0
 Ostseebad Binz	Germany	5531
 Kirchdorf	Germany	1293
 Roermond	Netherlands	44975
+Monaco	New Zealand	2470
+George Town	India	0
 San Teodoro	Italy	1421
+San Francisco	Philippines	2676
+Los Angeles	Mexico	1616
 Novara	Italy	101916
+Salamanca	Mexico	273417
+Barcelona	Philippines	2255
 Porto	Portugal	249633
 Daroca de Rioja	Spain	0
 Wimereux	France	7663
 Wihr-au-Val	France	1297
+San Francisco	Mexico	1909
+San Francisco	Mexico	1583
 Salon-de-Provence	France	41397
 Saint-Rémy-de-Provence	France	10562
 Saint-Germain	France	2298
@@ -556,6 +854,7 @@ Garons	France	4019
 Eygalières	France	1913
 Courchevel	France	1700
 Chaudes-Aigues	France	1012
+Murcia	Philippines	5138
 Carnac	France	4777
 Angers	France	168279
 Burgdorf	Germany	30899
@@ -568,6 +867,7 @@ Zuidlaren	Netherlands	3905
 Wolphaartsdijk	Netherlands	1595
 Nuenen	Netherlands	23223
 Gulpen	Netherlands	3560
+Pontevedra	Philippines	7865
 Valence	France	5039
 Pujaudran	France	1218
 Mayenne	France	15583
@@ -575,28 +875,69 @@ Drusenheim	France	4966
 Friedland	Germany	12607
 Ourense	Spain	105233
 Olost	Spain	1188
+Geneva	United States	2940
 Ulm	Germany	120451
+Atlanta	United States	463878
 Schmallenberg	Germany	26132
+Edinburgh	United States	4546
+Berlin	United States	4529
 Holt	United Kingdom	0
 Cheltenham	United Kingdom	116447
 Bath	United Kingdom	101557
 Bagshot	United Kingdom	5430
+Verona	United States	4239
 Bonn	Germany	330579
+Versailles	United States	2100
+Paris	United States	1176
+Genoa	United States	2331
+Belfast	United States	1257
+Kenilworth	United States	1907
+Paso Robles	United States	27157
+Saint Helena	United States	5814
+Salinas	United States	157380
+Denver	United States	3875
+Genoa	United States	5196
+Florence	United States	8649
+London	United States	10060
 Vevey	Switzerland	15812
+Shanghai	China	22315474
+Cheltenham	Australia	2176
+Thomastown	Australia	20234
 Rubiera	Italy	12001
 Rome	Italy	2318895
 Oderzo	Italy	15764
+San Francisco	Mexico	1831
+Port-Louis	Guadeloupe	5515
 Budapest	Hungary	1741041
+Cambridge	Jamaica	3930
+Seoul	Korea, Republic of	10349312
 Luxembourg	Luxembourg	76684
 Trescore Balneario	Italy	8479
 Sorrento	Italy	14724
 San Teodoro	Italy	1895
+San Francisco	Honduras	2806
 Zagreb	Croatia	663592
 Bruton	United Kingdom	2984
 Esztergom	Hungary	28785
 Tvååker	Sweden	2640
 Phuket	Thailand	79308
+Hollywood	United States	149728
+Naples	United States	21512
+Rome	United States	36323
+Athens	United States	1938
+Prague	United States	2453
+Ripley	United States	8176
+Rutherford	United States	1109
+Vienna	United States	16522
+Ripley	United States	3255
 Hasselt	Netherlands	6959
+San Francisco	Philippines	2903
+Paris	United States	5073
+Plymouth	United States	8905
+Bath	United States	5635
+Bergen	United States	1133
+Washington	United States	1035
+Naples	United States	2212
 Crema	Italy	31481
 Castelnuovo Berardenga	Italy	1654
 Castel Maggiore	Italy	16068
@@ -604,6 +945,7 @@ Capri	Italy	6770
 Cork	Ireland	190384
 Torgiano	Italy	2816
 Ortisei	Italy	4306
+Salinas	Puerto Rico	6375
 Montalcino	Italy	2121
 Saint-Cannat	France	4879
 Rhinau	France	2485
@@ -620,6 +962,14 @@ O Grove	Spain	10700
 Sankt Wendel	Germany	26904
 Regensburg	Germany	129151
 Écaussinnes-Lalaing	Belgium	1119
+Washington	United States	689545
+Chantilly	United States	23039
+Oakland	United States	2602
+Plymouth	United States	4456
+Toledo	United States	279789
+El Palmar	Venezuela, Bolivarian Rep. of	0
+Miami	United States	589
+Chicago	United States	2696555
 Saint-Alban-de-Roche	France	1855
 Plouider	France	1855
 Marlenheim	France	3559
@@ -643,12 +993,29 @@ Rijswijk	Netherlands	1862
 Heemstede	Netherlands	25562
 Groningen	Netherlands	233218
 Giethoorn	Netherlands	2130
+San Teodoro	Philippines	4827
+San Francisco	Mexico	1735
 Malmesbury	United Kingdom	6318
+Leon	Philippines	5172
+San Francisco	Venezuela, Bolivarian Rep. of	0
 Utrecht	Netherlands	361742
 's-Hertogenbosch	Netherlands	134520
 Linschoten	Netherlands	3435
 Koewacht	Netherlands	2656
 Gouda	Netherlands	71952
+Cambridge	New Zealand	15192
+Madrid	Philippines	3119
+Salinas	Mexico	1009
+Bodrum	Turkey	39317
+Milan	United States	1886
+Verona	United States	3054
+Washington	United States	1175
+Rome	United States	1019
+Kenilworth	United States	8215
+Oakland	United States	13165
+Mountain View	United States	80435
+Milan	United States	3250
+Mountain View	United States	1294
 Schipluiden	Netherlands	3635
 Rotterdam	Netherlands	598199
 Vienne	France	32293
@@ -664,20 +1031,29 @@ Clermont-Ferrand	France	147865
 Chagny	France	5684
 Breuillet	France	7755
 Kinsale	Ireland	5281
+Pamplona	Philippines	4884
 Pau	Italy	299
 Prato	Italy	195089
 Palmanova	Italy	2515
 Evesham	United Kingdom	23576
 Bath	Canada	1180
+Ascot	Australia	2674
 Augsburg	Germany	259196
+Loja	Ecuador	274112
 Elche	Spain	230112
 Münster	Germany	1078
 Hamburg	Germany	1845229
 Antwerpen	Belgium	529247
+George Town	Bahamas	7314
 Saint-Raphaël	Canada	1113
 Crans-Montana	Switzerland	10218
+Miami	Australia	7162
 Nieuwkerken-Waas	Belgium	6082
 Mons	Belgium	95299
+Pontevedra	Argentina	33515
+Horsham	Australia	14233
+George Town	Australia	4257
+Como	Australia	3890
 Frisange	Luxembourg	1355
 Palmanova	Spain	7040
 Helsinki	Finland	658864
@@ -701,20 +1077,38 @@ Menai Bridge	United Kingdom	4958
 Holt	United Kingdom	1757
 Codigoro	Italy	6752
 Barbarano Vicentino	Italy	1412
+Lagos	Nigeria	15388000
 Mechelen	Netherlands	1375
 Maastricht	Netherlands	122378
 Breda	Netherlands	167673
 Amstelveen	Netherlands	79639
+San Francisco	Philippines	18542
+Pamplona	Philippines	11772
 Francorchamps	Belgium	2023
 De Panne	Belgium	9799
+Burgos	Mexico	1404
 Cambridge	Canada	129920
 Baden	Switzerland	16118
+Salamanca	Chile	13265
+Chengdu	China	13568357
+Sorrento	Australia	7148
 Noto	Italy	18421
 Tienen	Belgium	31743
 Sint-Denijs-Westrem	Belgium	6419
 Lille	Belgium	15466
 Porto Ercole	Italy	2676
+Macau	Macau, China	649335
 Valletta	Malta	6794
+Valladolid	Mexico	48973
+Seville	Australia	2315
+Groningen	Suriname	3216
+Florence	United States	40026
+Oakland	United States	1875
+Bray	United States	1193
+Cambridge	United States	110402
+Athens	United States	1617
+San Francisco	Colombia	0
+Córdoba	Colombia	3784
 Tignes	France	2385
 Puymoyen	France	2582
 Annecy	France	49232
@@ -725,6 +1119,18 @@ Laubach	Germany	10205
 Skelton	United Kingdom	1549
 Marlow	United Kingdom	18261
 Machynlleth	United Kingdom	2235
+Vienna	United States	3777
+Geneva	United States	1316
+York	United States	43992
+Lisbon	United States	4234
+Plymouth	United States	1307
+Cambridge	United States	8451
+Cologne	United States	1605
+Plymouth	United States	75907
+Rutherford	United States	18690
+Oakland	United States	1578
+Verona	United States	12540
+Hollywood	United States	167664
 Malo	Italy	13218
 Le Mans	France	144515
 Douvaine	France	4278
@@ -736,24 +1142,44 @@ Santa Coloma de Gramenet	Spain	118821
 Padrón	Spain	9039
 Kilkenny	Ireland	21589
 Viareggio	Italy	62169
+Saint-Raphaël	Haiti	37739
 Birmingham	United Kingdom	1144919
+San Francisco	Colombia	2785
 Averbode	Belgium	3396
 Ath	Belgium	26681
 Sint-Katelijne-Waver	Belgium	19487
 Münster	Germany	14018
 Kirchdorf	Germany	2029
+Sorrento	Australia	1522
+Washington	United States	3981
+Oakland	United States	7488
+San Francisco	Mexico	1674
+Cadiz	United States	3271
+Cambridge	United States	1494
+Napa	United States	80434
+Toledo	United States	2202
+Rome	United States	2697
 Houten	Netherlands	1335
+San Francisco	Peru	0
+San Francisco	Philippines	2279
+Pontevedra	Philippines	3120
+Malaga	Philippines	2156
+Burgos	Philippines	0
+Burgos	Philippines	3727
 Genk	Belgium	63666
 Brugge	Belgium	118509
+Madrid	Colombia	85090
 Talavera de la Reina	Spain	88856
 Soria	Spain	39528
 Castelló d'Empúries	Spain	12111
+Ascot	Australia	5773
 Uccle	Belgium	82929
 Neerharen	Belgium	1720
 Schwäbisch Hall	Germany	36543
 Laubach	Germany	1073
 Kirchdorf	Germany	3679
 Friedland	Germany	6966
+Saint Helena	Australia	2890
 Salamanca	Spain	147707
 Sens	France	28700
 Plougonvelin	France	3009
@@ -763,4 +1189,17 @@ Bordeaux	France	260958
 Treviglio	Italy	24937
 Pontinia	Italy	6407
 Leeds	United Kingdom	516298
+Milan	United States	5983
+Cambridge	United States	1830
+Geneva	United States	6051
+Como	United States	2631
+Healdsburg	United States	11742
+London	United States	1869
+Oakland	United States	419267
 Duiven	Netherlands	25469
+Salamanca	Philippines	4994
+Pamplona	Philippines	2133
+Darmstadt	United States	1462
+Zwolle	United States	1972
+Vienna	United States	10573
+Genoa	United States	2306
