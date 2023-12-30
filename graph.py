@@ -1,11 +1,12 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-df = pd.read_csv("DataSources/Cleaned.csv", on_bad_lines='warn',sep="\t")
-dt = pd.read_csv("DataSources/CleanedGeoData.csv", on_bad_lines='warn', sep="\t")
+from matplotlib.pyplot import figure
+import numpy as np
+df = pd.read_csv("DataSources/FinalData.csv", on_bad_lines='warn',sep=",", encoding="latin1")
 
-df['City'].astype('str')
-df['Country'].astype('str')
-df['Price'].astype('str')
-df['Cuisine'].astype('str')
-df['Award'].astype('str')
-print(df['Country'].value_counts())
+data = pd.DataFrame(data = df)
+
+data.plot.scatter(x="City Population", y="Award")
+
+
+plt.show()
